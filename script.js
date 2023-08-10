@@ -2,11 +2,13 @@ let addToCartButtons = document.getElementsByClassName('btn-primary')
 let cartContainer = document.getElementsByTagName('tbody')[0]
 let quantityFields = document.getElementsByClassName('num')
 let delete_buttons = document.getElementsByClassName('uk-button-danger')
+
+
+//heartlike
 let btnvar1 = document.getElementById('btnh1')
 let btnvar2 = document.getElementById('btnh2')
 let btnvar3 = document.getElementById('btnh3')
 
-//heartlike
  function Toggle1(){
     if (btnvar1.style.color=="red"){
         btnvar1.style.color= "grey"
