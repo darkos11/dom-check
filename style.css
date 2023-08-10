@@ -1,0 +1,42 @@
+.container{
+  margin: auto;
+  margin-top: 20px;
+ 
+}
+.col-md-, .col-lg-4{
+  margin-bottom: 20px;
+}
+.sty{
+  font-size: 18px !important;
+  color: black !important;
+}
+.num{
+  width: 80px;
+  height: 30px;
+  border: 3px solid black;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 5px;
+}
+.uk-border-circle{
+  width: 100px !important;
+  height: 100px !important;
+}
+.fa-cart-arrow-down{
+  color: white;
+  font-size: 50px;
+  cursor: pointer;
+  padding-left: 20px;
+}
+/**bouton heart styling**/
+.btn2{
+ background: transparent;
+ border: none;
+ font-size: 22px;
+ outline: none;
+ color: grey;
+ padding-left: 90px;
+ }
+ .btn2 i:hover{
+  cursor: pointer;
+ }
